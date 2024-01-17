@@ -1,6 +1,12 @@
 # Terraform Notes
 
-My notes from going through the [Udemy course Terraform for the Absolute Beginners with Labs](https://www.udemy.com/course/terraform-for-the-absolute-beginners/) and associated hands-on labs to try to learn the new tool. These could later be broken up into nicer, logical sections divided between pages. For now, most of the content is within this page, except for the [AWS section](./aws.md) which I pulled into another markdown file.
+My notes from going through the [Udemy course Terraform for the Absolute Beginners with Labs](https://www.udemy.com/course/terraform-for-the-absolute-beginners/) and associated hands-on labs to try to learn the new tool. Most of the content is within this page as I streamed the notes into one file as I worked through the course. AWS specific notes can be found in the [AWS section](./aws.md).
+
+Overall, I really enjoyed taking the course due to the hands-on labs. It is difficult and potentially expensive to get started up with Terraform and play around, as it would require you create your own AWS account and provision real resources. I wasn't quite ready to do this from the jump, and the hands-on labs provided a way to feel comfortable with the Terraform syntax and AWS provider without needing to connect any infra of my own.
+
+Some later TODOs:
+- Break this up into more sub-files.
+- Add larger TF examples as I start to use it myself in projects.
 
 ## Getting Started
 
